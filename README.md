@@ -1,2 +1,2 @@
-# AdminBootstrap
-A Bootstrap 4 admin panel 
+# AdminPanel
+A Bootstrap Angular 4 admin panel 
